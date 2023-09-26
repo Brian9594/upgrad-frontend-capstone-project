@@ -1,0 +1,24 @@
+
+.header {
+    background-color: purple;
+    height: 70px;
+    padding: 11px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    background-color: #ff7f7f;
+    height: 35px;
+    width: auto; 
+  }
+  
+ 
+  .logo img {
+    height: 100%; 
+  }
+ 
+  .logo {
+    margin-right: auto; 
+  }
+  
